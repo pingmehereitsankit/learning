@@ -4,6 +4,6 @@
     echo "Editing file from browser.";
     echo "<br/>";
     for($i=1;$i<=10;$i++){
-        echo (2*$i)."<br/>";
+        echo (3*$i)."<br/>";
     }
 ?>
